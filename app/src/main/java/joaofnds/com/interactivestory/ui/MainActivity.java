@@ -1,4 +1,4 @@
-package joaofnds.com.interactivestory;
+package joaofnds.com.interactivestory.ui;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,7 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.Toast;
+
+import joaofnds.com.interactivestory.R;
 
 public class MainActivity extends AppCompatActivity {
 
